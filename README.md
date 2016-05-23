@@ -1,6 +1,7 @@
 # MapTrackerDI by SergBas
 MapTracker using Dagger(DI), Robospice
 
+![alt tag](http://i.imgur.com/01y32eb.png)
 ![alt tag](http://i.imgur.com/ONfIPZN.png)
 ![alt tag](http://i.imgur.com/1DsFXsR.png)
 ![alt tag](http://i.imgur.com/OTIL7fS.png)
